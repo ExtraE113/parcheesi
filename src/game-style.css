@@ -1,0 +1,54 @@
+table tr td {
+    border: 1px solid black;
+}
+
+.p1 {
+    background-color: red;
+}
+
+div.safe.p1 {
+    background-color: pink;
+}
+
+
+.p2 {
+    background-color: blue;
+}
+
+div.safe.p2 {
+    background-color: dodgerblue;
+
+}
+
+.p3 {
+    background-color: green;
+}
+
+div.safe.p3 {
+    background-color: lightgreen;
+}
+
+.p4 {
+    background-color: yellow;
+}
+
+div.safe.p4 {
+    background-color: lightyellow;
+}
+
+.home {
+    background-color: darkgrey;
+    text-align: center;
+    font-size: large;
+}
+
+.safe {
+    background-color: lightskyblue;
+}
+
+
+
+tr, td {
+    width: 5.2vmin;
+    height: 5.2vmin;
+}
